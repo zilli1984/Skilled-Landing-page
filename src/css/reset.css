@@ -1,0 +1,29 @@
+*{
+    font-family: "Plus Jakarta Sans";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    border: none;   
+}
+
+ul li{
+    list-style-type: none;
+}
+
+.img-hero-tablet{
+    display: none;
+}
+
+.img-hero-mobile{
+    display: none;
+}
+
+
+
